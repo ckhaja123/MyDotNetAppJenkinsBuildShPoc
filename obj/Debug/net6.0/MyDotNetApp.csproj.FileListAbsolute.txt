@@ -1,0 +1,14 @@
+C:\Develop\MyDotNetApp\bin\Debug\net6.0\MyDotNetApp.exe
+C:\Develop\MyDotNetApp\bin\Debug\net6.0\MyDotNetApp.deps.json
+C:\Develop\MyDotNetApp\bin\Debug\net6.0\MyDotNetApp.runtimeconfig.json
+C:\Develop\MyDotNetApp\bin\Debug\net6.0\MyDotNetApp.dll
+C:\Develop\MyDotNetApp\bin\Debug\net6.0\MyDotNetApp.pdb
+C:\Develop\MyDotNetApp\obj\Debug\net6.0\MyDotNetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Develop\MyDotNetApp\obj\Debug\net6.0\MyDotNetApp.AssemblyInfoInputs.cache
+C:\Develop\MyDotNetApp\obj\Debug\net6.0\MyDotNetApp.AssemblyInfo.cs
+C:\Develop\MyDotNetApp\obj\Debug\net6.0\MyDotNetApp.csproj.CoreCompileInputs.cache
+C:\Develop\MyDotNetApp\obj\Debug\net6.0\MyDotNetApp.dll
+C:\Develop\MyDotNetApp\obj\Debug\net6.0\refint\MyDotNetApp.dll
+C:\Develop\MyDotNetApp\obj\Debug\net6.0\MyDotNetApp.pdb
+C:\Develop\MyDotNetApp\obj\Debug\net6.0\MyDotNetApp.genruntimeconfig.cache
+C:\Develop\MyDotNetApp\obj\Debug\net6.0\ref\MyDotNetApp.dll
